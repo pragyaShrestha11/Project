@@ -1,3 +1,4 @@
 # Project
+
 Git Repository.
-Author - Pragya Shrestha
+Author - Pragya Stha
